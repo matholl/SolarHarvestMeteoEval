@@ -1,0 +1,29 @@
+'Payerne'	!Card 1 Comment
+2				!Card 2 ISPR
+46.815 0.491 0.002			!Card 2a Pressure & altitude
+1				!Card 3 IATMOS
+'MLS'				!Card 3a Atmosphere
+1				!Card 4 IH2O
+1				!Card 5 IO3
+1				!Card 6 IGAS
+370.0				!Card 7 qCO2
+0				!Card 7a ISPCTR
+'SRA_CONTL'			!Card 8 Aeros
+0				!Card 9 ITURB
+.27				!Card 9a TAU5
+-1				!Card 10 IALBDX
+0.2				!Card 10a RHOX
+1				!Card 10b ITILT
+-1 90. 180.		!Card 10c Tilt variables
+0.2			!Card 10d Fixed local albedo
+280 4000 1.0 1367.0	!Card 11 Input wavelengths; solar constant modifier; solar constant
+3			!Card 12 IPRT
+280 4000 1		!Card12a Print limits
+15			!Card12b # Variables to Print
+1 2 3 4 5 6 7 8 12 13 14 40 41 42 43		!Card12c Variable codes
+0			!Card 13 ICIRC
+0			!Card 14 ISCAN
+0			!Card 15 ILLUM
+0			!Card 16 IUV
+2			!Card 17 IMASS
+1			!Card 17a Air mass
